@@ -18,7 +18,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir -p _site
-          cp content/published/*.html content/published/sitemap.xml content/published/robots.txt _site/
+          cp *.html sitemap.xml robots.txt _site/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site

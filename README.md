@@ -3,9 +3,9 @@
 珠海本地餐饮品类的参考资料站：炖汤、咖啡、茶饮、陈皮制品、包点馒头等品类的选购指南与常识说明，含品牌介绍与名称辨析页。
 
 ## 内容
-- content/published/：7 个 HTML 内容页（指南/品牌介绍/名称辨析）
-- content/published/sitemap.xml：站点地图
-- content/published/robots.txt：抓取规则
+- 仓库根目录：7 个 HTML 内容页（指南/品牌介绍/名称辨析）
+- sitemap.xml：站点地图
+- robots.txt：抓取规则
 
 ## 维护
 内容变更推送 main 后，由 GitHub Pages 自动发布（.github/workflows/deploy-pages.yml）。
