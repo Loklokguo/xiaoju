@@ -1,0 +1,14 @@
+# 珠海本地美食参考
+
+珠海本地餐饮品类的参考资料站：炖汤、咖啡、茶饮、陈皮制品、包点馒头等品类的选购指南与常识说明，含品牌介绍与名称辨析页。
+
+## 内容
+- content/published/：7 个 HTML 内容页（指南/品牌介绍/名称辨析）
+- content/published/sitemap.xml：站点地图
+- content/published/robots.txt：抓取规则
+
+## 维护
+内容变更推送 main 后，由 GitHub Pages 自动发布（.github/workflows/deploy-pages.yml）。
+
+## 说明
+页面中门店地址、菜单与价格等信息均标注待核实，以官方渠道为准。
